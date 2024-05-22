@@ -8,7 +8,7 @@
 </head>
 <body>
     <nav>
-        <ul style="background-image: linear-gradient(rgb(100, 40, 40), brown);">
+        <ul style="background-image: linear-gradient(rgb(100, 40, 40), red);">
             <li class="brand"><img src="logo.jpg" alt="Musify">Musify</li>
             <li><a href="musicplayer.html">Home</a></li>
             <li><a href="about.html">About</a></li>
