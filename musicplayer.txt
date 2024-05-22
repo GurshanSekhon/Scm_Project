@@ -61,7 +61,7 @@
         </div>
     </div>
     <div class="Bottom">
-        <input type="range" name="range" id="myProgressBar" max="90">
+        <input type="range" name="range" id="myProgressBar" max="100">
               <div class="icons">
             <abbr title="Previuos"><i class="fa-3x fa-solid fa-backward-step" id="previous"></i></abbr>
             <abbr title="Play"><i class="fa-3x fa-solid fa-circle-play" id="masterPlay"></i></abbr>
